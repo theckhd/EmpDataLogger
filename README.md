@@ -9,7 +9,7 @@ Instructions: Unzip the addon file to your Flash folder (path: \Secret World Leg
 
 To extract the data, you either need Python (https://www.python.org/) installed on your system, or you need to send me the ClientLog.txt file from your Secret World Legends directory (\Secret World Legends) so that I can extract it myself.
 
-To extract yourself: 
+To extract yourself before sending: 
 
 1) Open the "EmpowermentParser.py" file in a text editor like Notepad++ (https://notepad-plus-plus.org/) 
 
@@ -26,3 +26,5 @@ To extract yourself:
 This will create an EmpDataLoggerDump.csv file in your SWL directory. Send that file to me.
 
 To let me do the work: Send me your ClientLog.txt file.
+
+The easiest way to send me your data is to create an issue ticket in Github and attach your file to it. 
